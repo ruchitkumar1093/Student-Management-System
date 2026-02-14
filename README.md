@@ -4,7 +4,7 @@ A Java-based Student Management System built using JDBC and MySQL with layered a
 
 ---
 
-## 🚀 Features
+## Features
 
 - Add new student
 - View all students
@@ -15,7 +15,7 @@ A Java-based Student Management System built using JDBC and MySQL with layered a
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - JDBC
@@ -25,7 +25,7 @@ A Java-based Student Management System built using JDBC and MySQL with layered a
 
 ---
 
-## 🏗 Project Architecture
+## Project Architecture
 
 The project follows a layered architecture:
 
@@ -39,7 +39,7 @@ This structure ensures separation of concerns and better maintainability.
 
 ---
 
-## 🗄 Database Configuration
+## Database Configuration
 
 Before running the project:
 
@@ -54,7 +54,7 @@ Before running the project:
 
 ---
 
-## ▶ How to Run
+## How to Run
 
 1. Clone the repository
 2. Open the project in IntelliJ IDEA
@@ -63,7 +63,7 @@ Before running the project:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add input validation
 - Convert into Spring Boot REST API
